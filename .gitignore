@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Heavy Installers & Archives
+*.exe
+*.msix
+*.apk
+*.rar
+*.zip
+*.bin
+*.torrent
+*.crdownload
+*.pdf
+
+# OS Generated Files
+Thumbs.db
+.DS_Store
